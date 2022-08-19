@@ -1,2 +1,4 @@
 # Resume
-this is my cv website... r-kazmi.github.io/CV
+A resume website with glassy effect... 
+</br>
+r-kazmi.github.io/CV
